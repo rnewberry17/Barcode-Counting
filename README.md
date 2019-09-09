@@ -1,4 +1,5 @@
 # Barcode-Counting
-calculates fitness of protein variants from barcode counts obtained by Illumina sequencing
 
-requires a dictionary associating particular barcodes to particular protein variants
+These scripts use a barcode:variant dictionary (created by the Barcode-Association programs) to determine the fitness scores of variants in deep mutational scanning experiments.
+
+Usage is specified in the program headers
